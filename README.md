@@ -1,9 +1,9 @@
 # PodNet
-Pod instance segmentation dataset of soybean images in pre-harvest fields.
+Official repository of _PodNet: Pod Real-time Instance Segmentation in Pre-harvest Soybean Fields._
 
 [TODO] The source code and detailed instructions on how to implement PodNet based on the ultralytics codebase is on the way.
 
-[20241210] PodSeg Dataset and PodNet model weights have been released.
+[20241210] PodSeg Dataset and PodNet model weights have been released！
 
 [20241129] Please fill the online sheet to access the dataset and model weights: https://docs.google.com/forms/d/e/1FAIpQLSdravohquw_FgBmTb9JyihuEkOn4x8MKLSI-_pt6TWwsu7oHg/viewform?usp=sf_link
 
